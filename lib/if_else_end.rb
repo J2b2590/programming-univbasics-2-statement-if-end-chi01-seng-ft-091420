@@ -11,3 +11,8 @@ if current_time & 2 == 0
 else
   puts "Odd!"
 end
+
+
+if result = true
+  puts "We've done it!"
+end
